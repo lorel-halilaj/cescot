@@ -1,0 +1,23 @@
+Esempio:
+Scrivere un programma che riceve un numero, 
+se il numero è pari, lo stampa un numero di volte pari alla metà del numero ricevuto
+se è dispari, lo stampa tante volte quante indicate nel numero ricevuto
+
+// verifico se il valore ricevuto è nullo, se è nullo stampo errore
+// verifico se il valore ricevuto è pari,
+    //se è pari:
+        //calcolo la metà del valore ricevuto
+        //stampo il valore la metà di volte
+    //se non è pari:
+        //stampo il valore tante volte quanto indicato nel valore
+
+
+Esercizio:
+Scrivere l'algoritmo in pseudocodice che calcola il fattoriale di un numero (n)
+
+// verifico se n è maggiore di 0
+    // se non è maggiore di 0, stampo errore
+    // se è maggiore di 0, imposto il risultato al valore di n
+    // per n-1 volte
+        // moltiplico il risultati per il suo precedente (n-1)
+        //aggiorno il valore n al suo precedente (n-1)
